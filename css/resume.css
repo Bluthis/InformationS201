@@ -1,0 +1,57 @@
+.common{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.SecondHeading{
+    background-color: whitesmoke;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.header{
+    height: 100px;
+    background-color: black;
+    color: whitesmoke;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color: whitesmoke;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    color: #333;
+    padding: 10px 13px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: #ccc
+
+}
